@@ -1,1 +1,1 @@
-App link: https://lapcost-estimator-by-smruti.onrender.com/
+App link: https://lapcost-estimator.streamlit.app/
